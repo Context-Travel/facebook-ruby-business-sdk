@@ -1,3 +1,7 @@
+# ‼️ IMPORTANT ‼️
+
+### This fork is for internal use while we don't migrate the main project to the latest Faraday version.
+
 # Facebook Business SDK for Ruby
 
 [![Packagist](https://img.shields.io/gem/v/facebookbusiness)](https://rubygems.org/gems/facebookbusiness)
